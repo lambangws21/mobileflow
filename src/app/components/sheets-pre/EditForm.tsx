@@ -15,7 +15,7 @@ interface DataRow {
   date: string;
   jenisBiaya: string;
   keterangan: string;
-  jumlah: string;
+  jumlah: number;
   klaimOleh: string;
 }
 
